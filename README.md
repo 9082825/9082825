@@ -1,16 +1,13 @@
-## Hi there 👋
+👋 Hi, I'm Jose George
 
-<!--
-**9082825/9082825** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 I am currently a graduate student in Applied AI & Machine Learning, passionate about building intelligent systems and real-world applications of data-driven technology.
 
-Here are some ideas to get you started:
+💻 With a strong foundation in Linux system administration and hands-on experience in DevOps tools (automation, cloud, and CI/CD), I bring a unique blend of systems expertise and machine learning knowledge.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 I am particularly interested in projects at the intersection of:
+
+MLOps – streamlining the deployment and monitoring of ML models.
+
+IoT (Internet of Things) – applying AI/ML to sensor-driven and connected device ecosystems.
+
+🔍 Always curious and open to collaboration on innovative projects where AI meets scalable infrastructure.
